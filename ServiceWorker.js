@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-20231106_Innovedum-0.1";
 const contentToCache = [
-    "Build/20240517b.loader.js",
-    "Build/20240517b.framework.js",
-    "Build/20240517b.data",
-    "Build/20240517b.wasm",
+    "Build/20240606.loader.js",
+    "Build/20240606.framework.js",
+    "Build/20240606.data",
+    "Build/20240606.wasm",
     "TemplateData/style.css"
 
 ];
